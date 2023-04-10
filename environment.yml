@@ -1,0 +1,5 @@
+name: nf-rnaseq
+channels:
+  - bioconda
+  - defaults
+prefix: /root/anaconda3/envs/nf-rnaseq
